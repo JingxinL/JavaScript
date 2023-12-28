@@ -30,3 +30,11 @@ console.log(now,three+d) //Now in 3D!
 console.log(now,three,d) //Now in 3 D!
 
 Note: here is the trick to skip the space between 3 D.
+
+Task 6:
+var counter=0
+ counter += 5
+ counter +=3
+
+ console.log(counter)
+
