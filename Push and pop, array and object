@@ -1,0 +1,18 @@
+var fruits = [];
+fruits.push("apple"); // ['apple']
+fruits.push('pear'); // ['apple', 'pear']
+
+fruits.pop();
+console.log(fruits); // ['apple']
+
+var clothes=[] ;
+clothes.push('pant','jacket','sock','tie','blouse');
+clothes.pop();
+clothes.push('down jacket');
+console.log(clothes);
+
+var favCar={};
+favCar.color='red';
+favCar.convertible= true;
+console.log(favCar);
+
